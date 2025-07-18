@@ -1,1 +1,1 @@
-# BroskiesHub-Python-Task-02
+This is a simple Console-Based To-Do List Application written in Python. It allows users to manage their daily tasks by adding, viewing, removing, and marking them as done through an interactive terminal menu. The project helps beginners understand basic programming concepts like lists, loops, functions, and conditionals. To run the app, simply execute Task_02.py in a terminal using Python 3. Tools used include Python and VS Code. This project is beginner-friendly and can be used for learning or personal productivity.
